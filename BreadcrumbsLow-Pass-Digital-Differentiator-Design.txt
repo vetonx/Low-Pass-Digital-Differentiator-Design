@@ -1,1 +1,31 @@
+LOW PASS DIGITAL DIFFERENTIATOR DESIGN
+
+##################### Group Project ##################### 
+Authors: Veton Sulejmani, Mattia Sittoni
+Professor: David Macii
+Course: Systems and techniques for digital signal processing
+Mechatronics Engineering, Master Degree (LM-33-Mechanical Engineering)
+University of Trento 
+######################################################### 
+
+
+################### Project contents ####################
+*** Matlab code reproduction of Selesnick and Al-Alaoui digital differentiators ***
+The realized Matlab code realizes the function of the Maximally flat Low-pass Digital Differentiators
+developed by Ivan Selesnick and the Linear Phase Low-Pass IIR Digital Differentiators of Al-Alaoui.
+Those filters are described in two different scientific papers, and the purpose was to simulate 
+the results which can be obtained practically implementing the procedures described by the authors.
+
+
+
+Contents of the project: 
+- generalities of the Maximally flat Low-pass Digital Differentiator 
+- transfer function and frequency response of the Maximally flat Low-pass Digital Differentiator 
+- the relation between characteristic constants and bandwidth
+- testing and study of the maximum error bandwidth related
+- generalities of Low-Pass IIR Digital Differentiator (type I and type II)
+- low pass filter applied to differentiator output
+- comparison among the differentiators 
+- frequency response, stopband, bandpass and group delay
+
 
